@@ -14,5 +14,6 @@ class Solution {
         System.out.println(new Solution().numJewelsInStones("zz", "ZZAbbbb"));
         System.out.println(new Solution().numJewelsInStones("aA", "aAAabAb"));
         System.out.println(new Solution().numJewelsInStones("aA", "aAAbbbb"));
+	System.out.println(new Solution().numJewelsInStones("aA", "Test git pull."));
     }
 }
